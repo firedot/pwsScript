@@ -12,5 +12,6 @@ addons:
      - nginx
      - curl
      - wget
+     - powershell
 script:
 - bash -x test.sh
